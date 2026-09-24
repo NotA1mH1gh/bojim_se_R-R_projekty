@@ -8,3 +8,5 @@ zadny official readme nebude
 bylo pouzito hodne ai, nebrat moc vazne, je to spise pro mne
 
 obcas tu neco pridam
+
+:D
